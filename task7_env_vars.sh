@@ -1,0 +1,4 @@
+#!/bin/bash
+# Task 7: Working with Environment Variables
+export MY_VAR="Hello, Linux!"
+echo $MY_VAR
